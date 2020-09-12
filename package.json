@@ -48,7 +48,7 @@
 		"superagent": "^4.1.0",
 		"swearjar": "^0.2.0",
 		"tz-lookup": "^6.1.8",
-		"yargs-parser": "^11.1.1"
+		"yargs-parser": "^13.1.2"
 	},
 	"devDependencies": {
 		"eslint": "^5.12.1",
